@@ -1,4 +1,4 @@
-# verbose-parakeet
+# Verbose Parakeet
 quick diceroll project for writing prompts
 
 ### requirements 
